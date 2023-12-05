@@ -1,0 +1,2 @@
+# MainSYSTEM
+AllgenrePVPのメインシステム
